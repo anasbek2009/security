@@ -10,10 +10,15 @@ body{
     display: grid;
     place-items: center;
     color: #ffff;
+    display: flex;
 }
 h1{
     font-size: 10vw;
 }
-
+.main{
+    width: 500px;
+    height: 600px;
+    background: url("");
+}
 
 
